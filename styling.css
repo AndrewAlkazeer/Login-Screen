@@ -2,7 +2,7 @@ body{
     margin: 0;
     width: 100%;
     height: 100vh;
-    background-image: url(/Login-Screen/images/Body\ Background.svg);
+    background-image: url(/images/Body\ Background.svg);
     background-size: cover;
     background-position: center;
 }
@@ -22,7 +22,7 @@ body{
 
 .right{
 
-    background-image: url(/Login-Screen/images/Right-Side.svg);
+    background-image: url(/images/Right-Side.svg);
     width: 100px;
     height: 500px;
     /*box-shadow: 2px 2px 20px 2px rgb(129, 101, 101);*/
