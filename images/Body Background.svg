@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <clipPath id="clip-Body_Background">
+      <rect width="1920" height="1080"/>
+    </clipPath>
+  </defs>
+  <g id="Body_Background" data-name="Body Background" clip-path="url(#clip-Body_Background)">
+    <rect width="1920" height="1080" fill="#fff"/>
+    <g id="Main_background" data-name="Main background" transform="translate(-2547 -1639)" fill="none" stroke="#707070" stroke-width="1">
+      <rect width="7026" height="3720" stroke="none"/>
+      <rect x="0.5" y="0.5" width="7025" height="3719" fill="none"/>
+    </g>
+    <rect id="Right-Side" width="3513" height="3720" transform="translate(960 -1649)" fill="#e63232"/>
+    <rect id="Left-Side" width="3513" height="3720" transform="translate(-2547 -1639)" fill="none"/>
+    <rect id="Square_Effect" data-name="Square Effect" width="716" height="661" transform="matrix(0.94, -0.342, 0.342, 0.94, -247.448, 945.375)" fill="#e63232"/>
+    <rect id="Square_Effect-2" data-name="Square Effect" width="388" height="376" transform="matrix(0.956, -0.292, 0.292, 0.956, 725.664, -107.38)" fill="#e63232"/>
+    <rect id="Square_Effect-3" data-name="Square Effect" width="470" height="470" transform="translate(-173.946 -11.502) rotate(-43)" fill="#e63232"/>
+  </g>
+</svg>
